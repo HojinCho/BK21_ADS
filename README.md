@@ -9,6 +9,8 @@ BK21 is good. But BK21 survey takes a lot of time.
 
 Python 3.6+
 
+pandas
+
 [astroquery](https://astroquery.readthedocs.io/en/latest/) 
 
 * Install by conda:
