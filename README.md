@@ -1,5 +1,5 @@
 # BK21_ADS
-BK21 is good. But BK21 survey sucks. 
+BK21 is good. But BK21 survey takes a lot of time. 
 
 **See the notebook I made here: [link](https://nbviewer.jupyter.org/github/ysbach/BK21_ADS/blob/master/BK2019_survey.ipynb)**
 
