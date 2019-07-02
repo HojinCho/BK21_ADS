@@ -9,7 +9,7 @@ BK21 is good. But BK21 survey sucks.
 
 Python 3.6+
 
-astroquery 
+[astroquery](https://astroquery.readthedocs.io/en/latest/) 
 
 * Install by conda:
 
